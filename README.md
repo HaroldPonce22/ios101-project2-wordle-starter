@@ -4,7 +4,7 @@ Submitted by: Harold Ponce Saldivar
 
 HPs Updated Worlde is an app that brings the popular word-guessing game Wordle to your fingertips with a fun and customizable twist. Players can guess a hidden word within a limited number of attempts, receiving feedback on their guesses to help them solve the puzzle. The app offers unique features such as customizable word lengths, adjustable difficulty levels, and themed word lists to keep the gameplay fresh and engaging. Additionally, it includes an exciting "Alien Wordle" mode, where the target word changes after each guess, adding an extra layer of challenge. With its intuitive interface and flexible settings, Hps Updated Wordle provides endless word-guessing fun for players of all skill levels.
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
