@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-The challenges i faced when making the app was figuring out how to start the first if let statement.
+When making the app, I faced challenges figuring out how to start the first if let statement.
 
 ## License
 
