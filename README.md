@@ -26,10 +26,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+![Screen Recording 2025-03-08 at 5 19 40 PM](https://github.com/user-attachments/assets/11668937-2c47-43da-b1d2-d0ab0866cf78)
+
+
+
 
 ## Notes
 
-When making the app, I faced challenges figuring out how to start the first if let statement.
+When updating the app, I faced challenges figuring out how to start the first if let statement.
 
 ## License
 
