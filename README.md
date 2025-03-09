@@ -26,8 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Screen Recording 2025-03-08 at 5 19 40 PM](https://github.com/user-attachments/assets/11668937-2c47-43da-b1d2-d0ab0866cf78)
-
+[![Screen Recording 2025-03-08 at 5 19 40 PM](https://github.com/user-attachments/assets/11668937-2c47-43da-b1d2-d0ab0866cf78)
+](https://github.com/user-attachments/assets/2c06a7bd-70b1-40f4-a16c-46a7a0eaa6ef
+)
 
 
 
